@@ -156,7 +156,8 @@ main {
     grid-row-gap: 48px;
     align-items: flex-end;
     overflow: hidden;
-    margin: auto
+    margin: auto;
+    font-color:black;
 }
 
 .kyc-block {
@@ -170,7 +171,6 @@ main {
 
 .kyc-label {
     font-size: 12px;
-    text-transform: lowercase ;
     color: black;
     display: flex;
     align-items: center;
