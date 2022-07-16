@@ -157,7 +157,7 @@ main {
     align-items: flex-end;
     overflow: hidden;
     margin: auto;
-    font-color:black;
+    color:black;
 }
 
 .kyc-block {
@@ -166,7 +166,7 @@ main {
     flex-direction: column;
     grid-row-gap: 8px;
     min-width: 150px;
-    font-color:black;
+    color:black;
 }
 
 .kyc-label {
